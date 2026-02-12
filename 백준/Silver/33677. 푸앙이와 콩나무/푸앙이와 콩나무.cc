@@ -42,7 +42,7 @@ int main()
             ull nd = d + 1;
             ull nw = w + 1;
             // 일수가 적거나, 일수가 같지만 물 양이 적으면 len을 교체
-            if (nd < days[nlen] or (nd == days[nlen] && nw < water[nlen])) {
+            if (nd < days[nlen] || (nd == days[nlen] && nw < water[nlen])) {
                 days[nlen] = nd;
                 water[nlen] = nw;
                 q.push(nlen);
