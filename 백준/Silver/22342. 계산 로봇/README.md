@@ -4,7 +4,7 @@
 
 ### 성능 요약
 
-메모리: 64816 KB, 시간: 128 ms
+메모리: 64816 KB, 시간: 124 ms
 
 ### 분류
 
@@ -12,7 +12,7 @@
 
 ### 제출 일자
 
-2026년 3월 8일 20:05:38
+2026년 3월 8일 20:08:29
 
 ### 문제 설명
 
@@ -31,7 +31,7 @@
 	<li>좌표 (i, j)의 로봇의 입력 값은 |i−a| ≤ j −b, b < j인 모든 좌표 (a, b)에 있는 로봇들의 출력 값들이다. (아래 그림에서 별로 표시된 칸의 로봇의 입력 값들은 왼쪽 회색 칸들의 로봇들의 출력 값들이다.)</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="" style="width: 205px; height: 171px;"></p>
+<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/86260f1f-3bf9-4fb1-9c31-4d9f876c3bb2/-/preview/" style="width: 205px; height: 171px;"></p>
 
 <ul>
 	<li>각 로봇은 자신의 입력 값들 중 최댓값을 자신의 저장 값으로 한다.</li>
